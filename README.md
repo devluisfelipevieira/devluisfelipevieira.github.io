@@ -18,7 +18,7 @@ npm run build
 npm run preview
 ```
 
-A pasta `dist` é a versão estática para hospedagem. A configuração `base: './'` permite servir em subdiretórios. As opções de planos gratuitos dos provedores devem ser verificadas na ocasião da publicação. Esta entrega é uma prévia local, não uma publicação pública.
+A pasta `dist` é a versão estática para hospedagem. A configuração `base: './'` permite servir em subdiretórios. As opções de planos gratuitos dos provedores devem ser verificadas na ocasião da publicação. Site publicado em https://devluisfelipevieira.github.io/. O GitHub Actions publica automaticamente cada atualização enviada à branch main. Páginas de comparação não entram no site publicado.
 
 ## Editar
 
