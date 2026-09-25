@@ -30,10 +30,10 @@ A pasta `dist` é a versão estática para hospedagem. A configuração `base: '
 
 ## Pendências editoriais
 
-- Currículo PDF pendente. LinkedIn, GitHub, e-mail, telefone e overview do SupriTI já integrados.
-- Cargo formal, vínculo e período de atuação.
-- Instituição da pós-graduação em Segurança e Defesa Cibernética.
-- Stack detalhada do SupriTI, equipamentos do case de rede e situação atual do UCS/AD + Samba.
+- Currículo atualizado em setembro de 2026 integrado em public/curriculo-luis-felipe.pdf, além dos contatos e overview do SupriTI.
+- Cargo, período e formação confirmados pelo currículo fornecido.
+- Ambas as pós-graduações na UNINTER; Redes concluída em setembro de 2026.
+- Confirmar equipamentos do case de rede e situação atual do UCS/AD + Samba.
 - Contexto, participação, tecnologias, implantação e resultados do Guichê-PMPS.
 - Confirmar classificação e exemplos de uso das tecnologias antes da versão pública.
 
