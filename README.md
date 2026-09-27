@@ -34,7 +34,7 @@ A pasta `dist` é a versão estática para hospedagem. A configuração `base: '
 - Cargo, período e formação confirmados pelo currículo fornecido.
 - Ambas as pós-graduações na UNINTER; Redes concluída em setembro de 2026.
 - Confirmar equipamentos do case de rede e situação atual do UCS/AD + Samba.
-- Contexto, participação, tecnologias, implantação e resultados do Guichê-PMPS.
+- Guichê-PMPS: case documentado em public/guiche.html, com ilustrações SVG fictícias em public/assets/guiche-*.svg. Contexto e participação confirmados pelo autor; interface observada no sistema.
 - Confirmar classificação e exemplos de uso das tecnologias antes da versão pública.
 
 Links vazios exibem um aviso acessível. Não apontam a perfis ou documentos inventados. Os cases abrem com controles nativos acessíveis por teclado. A prévia respeita a preferência de movimento reduzido.
